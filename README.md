@@ -9,5 +9,4 @@ worflow github @ramiroaraujo:
 5.  git commit -m "init commit" //commit con el mensaje (-m)
 6.  en github.com creas repo nuevo
 7.  git remote add origin https://github.com/descodms/sarlanga.git git push -u origin master
-    // agrega el origen
-    // para no entiendo
+8.  git push para ver los cambios en github.com
