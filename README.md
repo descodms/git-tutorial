@@ -10,3 +10,4 @@ worflow github @ramiroaraujo:
 6.  en github.com creas repo nuevo
 7.  git remote add origin https://github.com/descodms/sarlanga.git git push -u origin master
     // agrega el origen
+    // para no entiendo
