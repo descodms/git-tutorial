@@ -30,3 +30,7 @@ extras:git
 
 19. git fetch origin // downloads new data from repo - but it doesn't integrate any of this new data into your working files. Fetch is great for getting a fresh view on all the things that happened in a remote repository.
 20. git pull // update your current HEAD branch with the latest changes from the remote server. This means that pull not only downloads new data; it also directly integrates it into your current working copy files.
+
+21. git remote add name urlrepo //agregar repo
+    git remote add test-andres https://github.com/descodms/node-api-test.git
+22. git rm --cached "filename.txt" //remove the file from repository
